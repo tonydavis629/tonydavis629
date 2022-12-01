@@ -2,5 +2,5 @@ Hi, I'm Tony Davis. I'm a graduate student at Florida Atlantic University studyi
 
 I am interested in the application of machine learning for robotic applications and scientific discovery. In particular, my academic interests include aquaculture robotics and deep learning. I believe the better we can understand nature, the better we will be able to design our technology to live in harmony with it. 
 
-My personal email is acdavis629@gmail.com, twitter is @TonyD993, and personal website is [tonyd.co](tonyd.co).
+My personal email is acdavis629@gmail.com, twitter is @TonyD993, and personal website is [tonyd.co](https://tonyd.co).
 
